@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Proyectos\Programacion\LamportSigner\LamportSigner\bin\Debug\net5.0\LamportSigner.exe
+C:\Users\PC\Documents\Proyectos\Programacion\LamportSigner\LamportSigner\bin\Debug\net5.0\LamportSigner.deps.json
+C:\Users\PC\Documents\Proyectos\Programacion\LamportSigner\LamportSigner\bin\Debug\net5.0\LamportSigner.runtimeconfig.json
+C:\Users\PC\Documents\Proyectos\Programacion\LamportSigner\LamportSigner\bin\Debug\net5.0\LamportSigner.runtimeconfig.dev.json
+C:\Users\PC\Documents\Proyectos\Programacion\LamportSigner\LamportSigner\bin\Debug\net5.0\LamportSigner.dll
+C:\Users\PC\Documents\Proyectos\Programacion\LamportSigner\LamportSigner\bin\Debug\net5.0\ref\LamportSigner.dll
+C:\Users\PC\Documents\Proyectos\Programacion\LamportSigner\LamportSigner\bin\Debug\net5.0\LamportSigner.pdb
+C:\Users\PC\Documents\Proyectos\Programacion\LamportSigner\LamportSigner\obj\Debug\net5.0\LamportSigner.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Proyectos\Programacion\LamportSigner\LamportSigner\obj\Debug\net5.0\LamportSigner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Proyectos\Programacion\LamportSigner\LamportSigner\obj\Debug\net5.0\LamportSigner.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Proyectos\Programacion\LamportSigner\LamportSigner\obj\Debug\net5.0\LamportSigner.AssemblyInfo.cs
+C:\Users\PC\Documents\Proyectos\Programacion\LamportSigner\LamportSigner\obj\Debug\net5.0\LamportSigner.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Proyectos\Programacion\LamportSigner\LamportSigner\obj\Debug\net5.0\LamportSigner.dll
+C:\Users\PC\Documents\Proyectos\Programacion\LamportSigner\LamportSigner\obj\Debug\net5.0\ref\LamportSigner.dll
+C:\Users\PC\Documents\Proyectos\Programacion\LamportSigner\LamportSigner\obj\Debug\net5.0\LamportSigner.pdb
+C:\Users\PC\Documents\Proyectos\Programacion\LamportSigner\LamportSigner\obj\Debug\net5.0\LamportSigner.genruntimeconfig.cache
